@@ -25,7 +25,7 @@ const person: Contact = {
       name: "Great Britain",
       code: "GB",
     },
-    city: "Oxfordshire",
+    city: "Oxford",
   },
   keywords: [Keyword.REACT],
   type: [ContactType.SPEAKER],
